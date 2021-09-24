@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+<div align="center">
+  <a href="https://github.com/gsiilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsiilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsiilva&layout=compact&langs_count=7&theme=dracula&border_radius&count_private=true"/>
+</div>
+
 <!--
 **gsiilva/gsiilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
