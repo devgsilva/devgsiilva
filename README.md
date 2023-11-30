@@ -3,7 +3,7 @@
 
 <div>
   <a href="https://github.com/gsiilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsiilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devgsiilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius"/>
 </div>
 
  ### Tecnologias que utilizo no meu dia-a-dia
